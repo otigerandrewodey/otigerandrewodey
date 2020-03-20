@@ -1,4 +1,4 @@
 # otigerandrewodey
 hi
-i like native andoid development
+i like native android development
 i do java for android 
